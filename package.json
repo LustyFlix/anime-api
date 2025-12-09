@@ -1,5 +1,5 @@
 {
-  "name": "AnimeAPI",
+  "name": "anime-api",
   "version": "1.0.0",
   "description": "A restful api to provide all information about anime",
   "main": "./server.js",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LustyFlix/AnimeAPI.git"
+    "url": "https://github.com/LustyFlix/anime-api.git"
   }
 }
